@@ -1,3 +1,19 @@
-theme: jekyll-theme-leaf
 title: My Cybersecurity Journey
 author: Kate Herrera
+
+iconURL: assets/default-icon.png
+theme: jekyll-theme-leaf
+
+permalink: :slug
+
+social:
+  twitter: YOUR_TWITTER
+  github: YOUR_GITHUB
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
+### comments & analytics
+hyvor_talk_website_id: YOUR_WEBSITE_ID
+google_analytics: UA-NNNNNNNN-N
